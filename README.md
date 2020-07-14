@@ -15,7 +15,7 @@ Some of its features and characteristics:
 
 All you need to do is download and open the zip file, and then extract the war file into the webapps directory of your favorite servlet engine.
 
-Then point your browser at (for example) http://localhost:8080/bodgeit
+Then point your browser at (for example) http://localhost:8090/bodgeit
 
 You may find it easier to find vulnerabilities using a pen test tool.
 
