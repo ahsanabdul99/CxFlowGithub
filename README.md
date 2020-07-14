@@ -15,7 +15,7 @@ Some of its features and characteristics:
 
 All you need to do is download and open the zip file, and then extract the war file into the webapps directory of your favorite servlet engine.
 
-Then point your browser at (for example) http://localhost:8090/bodgeit
+Then point your browser at (for example) http://localhost:8080/bodgeit
 
 You may find it easier to find vulnerabilities using a pen test tool.
 
@@ -39,3 +39,4 @@ In the relatively near future I'm hoping to add things like:
 You can now also perform automated security regression tests on the Bodge It Store - see the wiki.
 
 Any feedback (or offers of help to develop it further;) would be appreciated.
+CxFlowMasterPush-Test1
